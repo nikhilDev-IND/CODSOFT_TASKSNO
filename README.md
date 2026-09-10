@@ -54,10 +54,6 @@ A command-line Rock-Paper-Scissors game where the user competes against the comp
 * Functions
 * User input
 
-### Task 5 – Contact Book
-
-A contact management application that allows users to add, view, search, update, and delete contacts.
-
 **Key concepts used:**
 
 * Dictionaries
